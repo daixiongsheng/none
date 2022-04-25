@@ -1,6 +1,6 @@
 {
   "name": "none",
-  "version": "1.0.1-12",
+  "version": "1.0.1",
   "author": "Xiongsheng Dai",
   "description": "base on koa light Application Framework",
   "main": "index.js",
